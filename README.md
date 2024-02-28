@@ -1,3 +1,4 @@
+![logo](https://github.com/Sindhu-kurapati/Sindhu-kurapati/blob/main/githubbackground.png?raw=true)
 <h1 align="center">Hi 👋, I'm Kurapati Sindhu</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
